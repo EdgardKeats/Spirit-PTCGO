@@ -256,3 +256,7 @@ AGENTS.md
 unity_ptcgo_recon/
 docs/
 native/
+
+#MacOS system files
+
+.DS_STORE
