@@ -256,3 +256,6 @@ AGENTS.md
 unity_ptcgo_recon/
 docs/
 native/
+
+.idea
+spirit/assets/bundleCache/pips/
